@@ -1,0 +1,584 @@
+{
+  "business": {
+    "name": "Da'LaRose finish carpentry LLC",
+    "phone": "+17049071368",
+    "category": "carpenter",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Charlotte's Trusted Finish Carpenters",
+      "heroSubline": "Da'LaRose Finish Carpentry delivers exceptional craftsmanship and reliable service throughout the Charlotte metro area. We bring expertise to every project, from intricate trim work to comprehensive renovations.",
+      "aboutTitle": "Craftsmanship You Can Trust",
+      "aboutText": [
+        "Da'LaRose Finish Carpentry LLC was founded over a decade ago with a simple mission: to provide Charlotte homeowners with unparalleled carpentry services. We saw a need for skilled professionals who not only possess technical expertise but also prioritize clear communication and unwavering dedication to customer satisfaction.",
+        "Our approach is rooted in collaboration. We listen carefully to your vision, offer expert guidance, and execute your project with precision and care. We understand the unique challenges of Charlotte's climate and housing styles, ensuring our work stands the test of time.",
+        "We're proud to be a part of the Charlotte community. We source materials locally whenever possible and actively support local initiatives. Our commitment extends beyond building structures; we're building lasting relationships."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled carpenters delivering exceptional quality on every project."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Punctual, communicative, and dedicated to your satisfaction."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Understanding Charlotte's unique housing and climate challenges."
+        },
+        {
+          "title": "Comprehensive Solutions",
+          "description": "From minor repairs to major renovations, we handle it all."
+        }
+      ],
+      "ctaHeadline": "Transform Your Home Today",
+      "ctaSubline": "Contact Da'LaRose Finish Carpentry for a free consultation and discover the difference quality craftsmanship makes."
+    },
+    "services": [
+      {
+        "slug": "custom-trim-work",
+        "name": "Custom Trim Work",
+        "shortDescription": "Elevate your home with exquisite custom trim and molding.",
+        "description": "Da'LaRose Finish Carpentry specializes in custom trim work that adds character and value to your Charlotte home. From intricate crown molding and baseboards to wainscoting and custom paneling, we bring your vision to life with meticulous attention to detail. We understand the architectural styles prevalent in Charlotte, from the classic ranch homes of Myers Park to the modern designs in South End, and tailor our trim work to complement your home's unique aesthetic.\n\nWe work with a variety of materials, including hardwoods, MDF, and paint-grade options, ensuring a perfect match for your budget and style. Our process includes precise measurements, expert installation, and a flawless finish. Whether you're renovating an older home in Dilworth or adding finishing touches to a new construction project in Ballantyne, our custom trim work will transform your space.\n\nWe pay special attention to the details, ensuring seamless transitions, tight miters, and a smooth, paint-ready surface. Our goal is to create trim work that not only looks beautiful but also enhances the overall value and appeal of your home. We will work efficiently and cleanly, respecting your property and minimizing disruption.",
+        "process": [
+          "Consultation: Discuss your vision and design preferences.",
+          "Material Selection: Choose the perfect materials to match your style and budget.",
+          "Precise Measurements: Accurate measurements for a flawless fit.",
+          "Expert Installation: Skilled carpenters install your trim with precision."
+        ],
+        "benefits": [
+          "Enhance your home's aesthetic appeal",
+          "Increase property value",
+          "Add architectural detail and character",
+          "Create a cohesive and polished look"
+        ],
+        "faq": [
+          {
+            "question": "What types of trim work do you offer?",
+            "answer": "We offer a wide range of custom trim work, including crown molding, baseboards, wainscoting, door and window casings, and custom paneling."
+          },
+          {
+            "question": "What materials do you use for trim work?",
+            "answer": "We work with a variety of materials, including hardwoods, MDF, and paint-grade options, depending on your budget and aesthetic preferences."
+          },
+          {
+            "question": "How long does trim work installation take?",
+            "answer": "The duration of the installation depends on the scope of the project. We will provide a detailed timeline during the consultation process."
+          }
+        ]
+      },
+      {
+        "slug": "cabinet-installation",
+        "name": "Cabinet Installation",
+        "shortDescription": "Professional cabinet installation for kitchens, bathrooms, and more.",
+        "description": "Da'LaRose Finish Carpentry provides expert cabinet installation services throughout Charlotte and surrounding areas. Whether you're upgrading your kitchen in a classic ranch home or outfitting a new bathroom in a modern condo, we ensure a precise and professional installation. We understand the importance of level cabinets, secure mounting, and seamless alignment, especially given the red clay soil that can cause foundation shifts in some Charlotte homes.\n\nWe work with all types of cabinets, including stock, semi-custom, and custom designs. Our team is experienced in installing cabinets in various spaces, from kitchens and bathrooms to home offices and entertainment centers. We pay close attention to detail, ensuring that all cabinets are installed according to manufacturer specifications and local building codes.\n\nOur installation process includes removing old cabinets, preparing the walls, installing new cabinets, and adding finishing touches such as hardware and trim. We take pride in our clean and efficient work, minimizing disruption to your home and ensuring a smooth and hassle-free experience. We handle all aspects of the project, from start to finish, providing a complete and reliable solution for your cabinet installation needs.",
+        "process": [
+          "Removal of old cabinets",
+          "Wall preparation and leveling",
+          "Precise cabinet installation and alignment",
+          "Hardware and trim installation"
+        ],
+        "benefits": [
+          "Properly installed and aligned cabinets",
+          "Enhanced functionality and storage",
+          "Increased home value",
+          "Professional and reliable service"
+        ],
+        "faq": [
+          {
+            "question": "Do you install all types of cabinets?",
+            "answer": "Yes, we install all types of cabinets, including stock, semi-custom, and custom designs."
+          },
+          {
+            "question": "How long does cabinet installation take?",
+            "answer": "The duration of the installation depends on the size and complexity of the project. We will provide a detailed timeline during the consultation process."
+          },
+          {
+            "question": "Do you remove old cabinets?",
+            "answer": "Yes, we handle the removal and disposal of your old cabinets as part of our installation service."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation-repair",
+        "name": "Door Installation & Repair",
+        "shortDescription": "Secure and stylish door installation and repair services.",
+        "description": "Da'LaRose Finish Carpentry offers comprehensive door installation and repair services for homes in Charlotte, NC. From replacing a damaged front door to installing new interior doors, we ensure a secure, functional, and aesthetically pleasing result. We understand the importance of properly fitted doors for both security and energy efficiency, especially during Charlotte's hot summers and occasional winter ice storms.\n\nWe work with all types of doors, including entry doors, interior doors, patio doors, and storm doors. We can install new doors, replace old doors, or repair existing doors that are sticking, squeaking, or damaged. Our services include adjusting hinges, replacing hardware, repairing frames, and weatherstripping to improve energy efficiency.\n\nWe pay close attention to detail, ensuring that all doors are properly aligned, sealed, and secured. Our goal is to provide you with doors that not only look great but also provide lasting protection and functionality. We work efficiently and cleanly, respecting your property and minimizing disruption to your daily routine.",
+        "process": [
+          "Door selection and consultation",
+          "Precise measurements and fitting",
+          "Professional installation and alignment",
+          "Hardware installation and adjustments"
+        ],
+        "benefits": [
+          "Improved security and energy efficiency",
+          "Enhanced curb appeal",
+          "Properly functioning doors",
+          "Professional and reliable service"
+        ],
+        "faq": [
+          {
+            "question": "Do you install exterior doors?",
+            "answer": "Yes, we install all types of exterior doors, including entry doors, patio doors, and storm doors."
+          },
+          {
+            "question": "Can you repair damaged doors?",
+            "answer": "Yes, we can repair a wide range of door issues, including sticking, squeaking, hinge problems, and frame damage."
+          },
+          {
+            "question": "How long does door installation take?",
+            "answer": "The duration of the installation depends on the type of door and the complexity of the project. We will provide a detailed timeline during the consultation process."
+          }
+        ]
+      },
+      {
+        "slug": "custom-shelving",
+        "name": "Custom Shelving & Built-ins",
+        "shortDescription": "Maximize your space with custom shelving and built-in solutions.",
+        "description": "Da'LaRose Finish Carpentry designs and installs custom shelving and built-ins to maximize space and enhance the functionality of your Charlotte home. Whether you need a custom bookshelf for your home office, a built-in entertainment center for your living room, or custom closet organizers for your bedrooms, we create solutions tailored to your specific needs and style. We understand the diverse housing styles in Charlotte, from the older ranch homes needing space-saving solutions to the newer homes wanting to maximize their storage potential.\n\nWe work with a variety of materials, including hardwoods, plywood, and MDF, to create shelving and built-ins that are both beautiful and durable. Our process includes a detailed consultation to understand your needs, design a custom solution, and install it with precision and care. We pay close attention to detail, ensuring that all shelves are level, secure, and aesthetically pleasing.\n\nOur goal is to provide you with custom shelving and built-ins that not only look great but also improve the organization and functionality of your home. We work efficiently and cleanly, respecting your property and minimizing disruption to your daily routine. We can also integrate lighting and electrical outlets into your built-in designs for added convenience.",
+        "process": [
+          "Detailed consultation and design",
+          "Material selection and fabrication",
+          "Precise installation and finishing",
+          "Custom hardware and lighting options"
+        ],
+        "benefits": [
+          "Maximized storage and organization",
+          "Customized solutions for your needs",
+          "Enhanced aesthetic appeal",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What types of custom shelving do you offer?",
+            "answer": "We offer a wide range of custom shelving options, including bookshelves, closet organizers, pantry shelves, and floating shelves."
+          },
+          {
+            "question": "What materials do you use for custom shelving?",
+            "answer": "We work with a variety of materials, including hardwoods, plywood, and MDF, depending on your budget and aesthetic preferences."
+          },
+          {
+            "question": "Can you integrate lighting into custom built-ins?",
+            "answer": "Yes, we can integrate lighting and electrical outlets into your built-in designs for added convenience."
+          }
+        ]
+      },
+      {
+        "slug": "deck-repair-restoration",
+        "name": "Deck Repair & Restoration",
+        "shortDescription": "Restore your deck to its former glory with our repair and restoration services.",
+        "description": "Da'LaRose Finish Carpentry specializes in deck repair and restoration services for Charlotte homeowners. We understand that decks are a valuable outdoor living space, but they can also be susceptible to damage from the elements, especially Charlotte's humid summers and occasional ice storms. We provide comprehensive deck repair and restoration services to ensure your deck is safe, functional, and beautiful for years to come.\n\nOur services include repairing damaged boards, replacing rotted wood, reinforcing structural supports, and refinishing the deck surface. We also offer deck cleaning, staining, and sealing services to protect your deck from the elements and extend its lifespan. We work with all types of decking materials, including wood, composite, and PVC.\n\nWe pay close attention to detail, ensuring that all repairs are done correctly and that the deck is properly sealed and protected. Our goal is to restore your deck to its former glory and provide you with a safe and enjoyable outdoor living space. We work efficiently and cleanly, respecting your property and minimizing disruption to your daily routine.",
+        "process": [
+          "Inspection and assessment of deck damage",
+          "Repair of damaged boards and structural supports",
+          "Deck cleaning, staining, and sealing",
+          "Safety inspection and final walk-through"
+        ],
+        "benefits": [
+          "Improved safety and stability",
+          "Extended deck lifespan",
+          "Enhanced aesthetic appeal",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What type of deck damage do you repair?",
+            "answer": "We repair a wide range of deck damage, including rotted wood, loose boards, damaged railings, and structural problems."
+          },
+          {
+            "question": "Do you offer deck cleaning and sealing services?",
+            "answer": "Yes, we offer deck cleaning, staining, and sealing services to protect your deck from the elements and extend its lifespan."
+          },
+          {
+            "question": "How often should I seal my deck?",
+            "answer": "We recommend sealing your deck every 1-2 years, depending on the type of decking material and the level of exposure to the elements."
+          }
+        ]
+      },
+      {
+        "slug": "furniture-repair",
+        "name": "Furniture Repair",
+        "shortDescription": "Bring your furniture back to life with our expert repair services.",
+        "description": "Da'LaRose Finish Carpentry offers furniture repair services to homeowners in Charlotte, NC. We understand that furniture can be an investment, and we're dedicated to helping you preserve it. From repairing broken legs and frames to refinishing surfaces, we restore your furniture to its former glory.\n\nOur skilled craftsmen have experience working with all types of furniture, from antique pieces to modern designs. We use high-quality materials and techniques to ensure lasting repairs. We also offer upholstery repair and refinishing services.\n\nWe treat every piece of furniture with care and respect, ensuring that the repairs are seamless and that the original character of the piece is preserved. Our goal is to provide you with furniture that not only looks great but also lasts for years to come. We offer pick-up and delivery services for your convenience.",
+        "process": [
+          "Assessment of furniture damage",
+          "Disassembly and repair of broken parts",
+          "Refinishing and upholstery services",
+          "Reassembly and final inspection"
+        ],
+        "benefits": [
+          "Preserved furniture value",
+          "Extended furniture lifespan",
+          "Restored aesthetic appeal",
+          "Cost-effective alternative to replacement"
+        ],
+        "faq": [
+          {
+            "question": "What types of furniture do you repair?",
+            "answer": "We repair a wide range of furniture, including chairs, tables, sofas, dressers, and more."
+          },
+          {
+            "question": "Do you offer upholstery repair services?",
+            "answer": "Yes, we offer upholstery repair and refinishing services."
+          },
+          {
+            "question": "How long does furniture repair take?",
+            "answer": "The duration of the repair depends on the type and extent of the damage. We will provide a detailed timeline during the consultation process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Huntersville",
+        "slug": "huntersville-nc",
+        "state": "NC",
+        "content": "Da'LaRose Finish Carpentry LLC is proud to offer our expert carpentry services to the residents of Huntersville, NC. Known for its beautiful suburban developments built in the 1990s and 2000s, Huntersville boasts a diverse range of homes, from cozy single-family residences to larger estate properties. We understand the unique needs of Huntersville homeowners and are committed to providing high-quality craftsmanship that enhances the beauty and value of your home. \n\nOur team is experienced in working with a variety of architectural styles and materials commonly found in Huntersville. Whether you're looking to upgrade your kitchen cabinets, install custom trim work, or add a new deck for enjoying those hot, humid summers, Da'LaRose Finish Carpentry LLC is here to help. We pride ourselves on our attention to detail, professionalism, and commitment to customer satisfaction.",
+        "localContext": "Huntersville, experiencing hot and humid summers, features many homes built during the suburban boom of the late 20th century.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Concord",
+        "slug": "concord-nc",
+        "state": "NC",
+        "content": "Da'LaRose Finish Carpentry LLC provides comprehensive carpentry solutions to homeowners in Concord, NC. Concord's landscape is dotted with family homes built primarily in the 1980s and 1990s, many requiring updates and renovations to meet modern standards. We are dedicated to providing top-notch craftsmanship and exceptional service to the Concord community.\n\nFrom kitchen and bathroom remodels to custom built-ins and trim work, our skilled carpenters have the expertise to handle any project, big or small. We understand the importance of creating functional and beautiful spaces that reflect your personal style. With Concord's climate featuring hot, humid summers, we can help you design outdoor living spaces that are both durable and enjoyable.",
+        "localContext": "Concord, known for its family-friendly atmosphere and hot, humid summers, features many homes constructed in the 1980s and 1990s.",
+        "nearbyAreas": [
+          "Kannapolis",
+          "Harrisburg",
+          "Midland"
+        ]
+      },
+      {
+        "city": "Matthews",
+        "slug": "matthews-nc",
+        "state": "NC",
+        "content": "Da'LaRose Finish Carpentry LLC is delighted to serve the residents of Matthews, NC, with our exceptional carpentry services. Matthews is characterized by its established suburbs, primarily developed in the 1970s and 1980s, offering a mix of traditional and contemporary homes. We are committed to delivering high-quality workmanship and personalized service to meet the unique needs of Matthews homeowners.\n\nWhether you're looking to update your kitchen, create custom storage solutions, or enhance your outdoor living space, our team of experienced carpenters is here to help. We understand the architectural styles prevalent in Matthews and can seamlessly integrate our craftsmanship with your existing home design. We want to help you make the most of Matthews' hot humid summers.",
+        "localContext": "Matthews features established suburbs from the 1970s and 1980s and like much of the region, experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Mint Hill",
+          "Indian Trail",
+          "Weddington"
+        ]
+      },
+      {
+        "city": "Fort Mill",
+        "slug": "fort-mill-sc",
+        "state": "SC",
+        "content": "Da'LaRose Finish Carpentry LLC extends its exceptional carpentry services to the growing community of Fort Mill, SC. Known for its newer planned communities developed in the 2000s and 2020s, Fort Mill offers a wide variety of modern homes and architectural styles. We are dedicated to providing top-notch craftsmanship and personalized service to meet the unique needs of Fort Mill homeowners.\n\nFrom custom cabinetry and trim work to deck construction and home renovations, our skilled carpenters have the expertise to handle any project. We understand the importance of creating functional and beautiful spaces that reflect your personal style and complement the modern aesthetic of Fort Mill homes. With its hot, humid summers, Fort Mill residents need durable and beautiful outdoor spaces.",
+        "localContext": "Fort Mill, experiencing hot humid summers, is characterized by newer planned communities built in the 21st century.",
+        "nearbyAreas": [
+          "Tega Cay",
+          "Indian Land",
+          "Rock Hill"
+        ]
+      },
+      {
+        "city": "Gastonia",
+        "slug": "gastonia-nc",
+        "state": "NC",
+        "content": "Da'LaRose Finish Carpentry LLC is proud to serve the residents of Gastonia, NC, with our expert carpentry services. Gastonia is known for its working-class homes, primarily built in the 1960s and 1970s, offering a variety of affordable housing options. We are committed to providing high-quality workmanship and personalized service to meet the needs of Gastonia homeowners.\n\nWhether you're looking to renovate your kitchen, update your bathroom, or add custom storage solutions, our experienced carpenters are here to help. We understand the architectural styles prevalent in Gastonia and can seamlessly integrate our craftsmanship with your existing home design. We are dedicated to helping Gastonia residents improve their homes while considering the hot humid summers of the region.",
+        "localContext": "Gastonia features many working-class homes built in the 1960s and 1970s, and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Belmont",
+          "Mount Holly",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Cornelius",
+        "slug": "cornelius-nc",
+        "state": "NC",
+        "content": "Da'LaRose Finish Carpentry LLC is pleased to offer our carpentry services to the residents of Cornelius, NC. Situated on the shores of Lake Norman, Cornelius features a mix of waterfront properties and established neighborhoods. We're committed to delivering exceptional craftsmanship and personalized service to enhance homes in this picturesque town.\n\nWhether you're looking to renovate a lakeside cottage, build a custom deck, or add elegant trim work to your home, our skilled carpenters have the expertise to bring your vision to life. We understand the unique needs of Cornelius homeowners and are dedicated to creating beautiful and functional spaces that complement the town's relaxed, lakefront lifestyle. With hot, humid summers, Cornelius homeowners need durable and beautiful outdoor spaces.",
+        "localContext": "Cornelius, located on Lake Norman and experiencing hot, humid summers, has a mix of waterfront properties and established neighborhoods.",
+        "nearbyAreas": [
+          "Huntersville",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Davidson",
+        "slug": "davidson-nc",
+        "state": "NC",
+        "content": "Da'LaRose Finish Carpentry LLC is proud to offer our expert carpentry services in Davidson, NC. Home to Davidson College, this charming town features historic homes and tree-lined streets. We understand the importance of preserving the character of Davidson's architecture while providing modern updates and enhancements.\n\nOur team is experienced in working with a variety of architectural styles, from historic renovations to modern additions. Whether you're looking to restore original trim work, build custom bookshelves, or create a welcoming outdoor space, Da'LaRose Finish Carpentry LLC is here to help. We prioritize quality craftsmanship, attention to detail, and customer satisfaction. Davidson residents need to consider the hot humid summers when planning outdoor projects.",
+        "localContext": "Davidson, home to Davidson College and experiencing hot, humid summers, features historic homes and tree-lined streets.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Huntersville",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Harrisburg",
+        "slug": "harrisburg-nc",
+        "state": "NC",
+        "content": "Da'LaRose Finish Carpentry LLC is dedicated to providing exceptional carpentry services to the residents of Harrisburg, NC. Known for its family-friendly atmosphere and growing community, Harrisburg features a mix of newer developments and established neighborhoods. We're committed to delivering high-quality workmanship and personalized service to meet the unique needs of Harrisburg homeowners.\n\nFrom kitchen and bathroom remodels to custom built-ins and trim work, our skilled carpenters have the expertise to handle any project. We understand the importance of creating functional and beautiful spaces that reflect your personal style. With Harrisburg's climate featuring hot, humid summers, we can help you design outdoor living spaces that are both durable and enjoyable.",
+        "localContext": "Harrisburg, known for being family friendly and experiencing hot, humid summers, has a mix of new and established neighborhoods.",
+        "nearbyAreas": [
+          "Concord",
+          "Charlotte",
+          "Midland"
+        ]
+      },
+      {
+        "city": "Mint Hill",
+        "slug": "mint-hill-nc",
+        "state": "NC",
+        "content": "Da'LaRose Finish Carpentry LLC is pleased to offer our carpentry services to the residents of Mint Hill, NC. Mint Hill offers a blend of rural charm and suburban convenience, with a mix of older homes and newer developments. We are committed to providing high-quality craftsmanship and personalized service to enhance homes in this unique community.\n\nWhether you're looking to renovate your kitchen, add custom trim work, or create an outdoor living space, our skilled carpenters have the expertise to bring your vision to life. We understand the diverse architectural styles found in Mint Hill and are dedicated to creating beautiful and functional spaces that complement the town's character. Mint Hill residents need to consider the hot humid summers when planning outdoor projects.",
+        "localContext": "Mint Hill, experiencing hot, humid summers, offers a blend of rural and suburban living with diverse architectural styles.",
+        "nearbyAreas": [
+          "Matthews",
+          "Charlotte",
+          "Indian Trail"
+        ]
+      },
+      {
+        "city": "Belmont",
+        "slug": "belmont-nc",
+        "state": "NC",
+        "content": "Da'LaRose Finish Carpentry LLC is proud to serve the residents of Belmont, NC, with our expert carpentry services. Belmont, situated along the Catawba River, features a mix of historic homes and newer developments. We understand the importance of preserving the character of Belmont's architecture while providing modern updates and enhancements.\n\nOur team is experienced in working with a variety of architectural styles, from historic renovations to contemporary additions. Whether you're looking to restore original trim work, build custom cabinetry, or create a welcoming outdoor space, Da'LaRose Finish Carpentry LLC is here to help. We prioritize quality craftsmanship, attention to detail, and customer satisfaction. Belmont residents need to consider the hot humid summers when planning outdoor projects.",
+        "localContext": "Belmont, experiencing hot, humid summers, features historic homes and newer developments along the Catawba River.",
+        "nearbyAreas": [
+          "Gastonia",
+          "Mount Holly",
+          "Clover, SC"
+        ]
+      },
+      {
+        "city": "Indian Trail",
+        "slug": "indian-trail-nc",
+        "state": "NC",
+        "content": "Da'LaRose Finish Carpentry LLC extends its expert carpentry services to the growing community of Indian Trail, NC. Known for its family-friendly atmosphere and rapid growth, Indian Trail features a mix of newer homes and established neighborhoods. We're committed to delivering high-quality workmanship and personalized service to meet the unique needs of Indian Trail homeowners.\n\nFrom kitchen and bathroom remodels to custom built-ins and deck construction, our skilled carpenters have the expertise to handle any project. We understand the importance of creating functional and beautiful spaces that reflect your personal style and enhance your home's value. Indian Trail residents need to consider the hot humid summers when planning outdoor projects.",
+        "localContext": "Indian Trail, experiencing hot, humid summers, is known for its family-friendly atmosphere and growing community with newer and established homes.",
+        "nearbyAreas": [
+          "Matthews",
+          "Monroe",
+          "Weddington"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Custom Trim Work",
+        "text": "Da'LaRose Finish Carpentry did an amazing job with the trim work in my dining room. The attention to detail was incredible, and the finished product is stunning. They were professional, punctual, and a pleasure to work with. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Cabinet Installation",
+        "text": "We hired Da'LaRose to install new cabinets in our kitchen, and we're very happy with the results. The installation was done quickly and efficiently, and the cabinets look great. There was a small issue with one of the doors, but they came back right away to fix it. Good service!",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Door Installation & Repair",
+        "text": "Our front door was damaged during a storm, and Da'LaRose Finish Carpentry came to the rescue. They replaced the door quickly and professionally, and it looks even better than the original. They were very responsive and easy to work with.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Custom Shelving",
+        "text": "I needed custom shelving for my home office, and Da'LaRose Finish Carpentry delivered exactly what I wanted. The shelves are sturdy, beautiful, and perfectly tailored to my needs. The installation was seamless, and the price was fair.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 4,
+        "service": "Deck Repair & Restoration",
+        "text": "Our deck was in rough shape after years of neglect, but Da'LaRose Finish Carpentry brought it back to life. They repaired the damaged boards, cleaned and stained the surface, and made it look like new again. The deck is now a safe and enjoyable space for our family.",
+        "date": "2025-07-05"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Furniture Repair",
+        "text": "Da'LaRose Finish Carpentry fixed a broken leg on my antique chair. They did such a wonderful job you can't even tell it was ever damaged. I was so glad I didn't have to throw it away!",
+        "date": "2025-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Da'LaRose Carpentry | Charlotte, NC",
+        "description": "Expert finish carpentry services in Charlotte. Custom trim, cabinets, doors, decks. Quality craftsmanship, reliable service."
+      },
+      "about": {
+        "title": "About Da'LaRose Finish Carpentry",
+        "description": "Learn about Da'LaRose Finish Carpentry's commitment to quality and customer satisfaction in Charlotte, NC."
+      },
+      "services": {
+        "title": "Carpenter Services | Charlotte, NC",
+        "description": "Da'LaRose Finish Carpentry provides a wide range of services. Trim work, cabinets, doors, shelving, and more."
+      },
+      "contact": {
+        "title": "Contact Da'LaRose Carpentry",
+        "description": "Contact Da'LaRose Finish Carpentry for a free consultation and estimate on your next carpentry project in Charlotte, NC."
+      },
+      "reviews": {
+        "title": "Da'LaRose Carpentry Reviews",
+        "description": "Read reviews from satisfied Da'LaRose Finish Carpentry customers in Charlotte, NC. Quality work, reliable service."
+      },
+      "service-areas": {
+        "title": "Da'LaRose Carpentry Service Areas",
+        "description": "Da'LaRose Finish Carpentry serves Charlotte and surrounding areas. Huntersville, Concord, Matthews, Fort Mill, Gastonia."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-trim-work": "/images/service-custom-trim-work.webp",
+      "cabinet-installation": "/images/service-cabinet-installation.webp",
+      "door-installation-repair": "/images/service-door-installation-repair.webp",
+      "custom-shelving": "/images/service-custom-shelving.webp",
+      "deck-repair-restoration": "/images/service-deck-repair-restoration.webp",
+      "furniture-repair": "/images/service-furniture-repair.webp"
+    },
+    "servicesResponsive": {
+      "custom-trim-work": {
+        "src": "/images/service-custom-trim-work.webp",
+        "srcset": "/images/service-custom-trim-work-400w.webp 400w, /images/service-custom-trim-work-800w.webp 800w, /images/service-custom-trim-work-1200w.webp 1200w, /images/service-custom-trim-work.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cabinet-installation": {
+        "src": "/images/service-cabinet-installation.webp",
+        "srcset": "/images/service-cabinet-installation-400w.webp 400w, /images/service-cabinet-installation-800w.webp 800w, /images/service-cabinet-installation-1200w.webp 1200w, /images/service-cabinet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation-repair": {
+        "src": "/images/service-door-installation-repair.webp",
+        "srcset": "/images/service-door-installation-repair-400w.webp 400w, /images/service-door-installation-repair-800w.webp 800w, /images/service-door-installation-repair-1200w.webp 1200w, /images/service-door-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-shelving": {
+        "src": "/images/service-custom-shelving.webp",
+        "srcset": "/images/service-custom-shelving-400w.webp 400w, /images/service-custom-shelving-800w.webp 800w, /images/service-custom-shelving-1200w.webp 1200w, /images/service-custom-shelving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-repair-restoration": {
+        "src": "/images/service-deck-repair-restoration.webp",
+        "srcset": "/images/service-deck-repair-restoration-400w.webp 400w, /images/service-deck-repair-restoration-800w.webp 800w, /images/service-deck-repair-restoration-1200w.webp 1200w, /images/service-deck-repair-restoration.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furniture-repair": {
+        "src": "/images/service-furniture-repair.webp",
+        "srcset": "/images/service-furniture-repair-400w.webp 400w, /images/service-furniture-repair-800w.webp 800w, /images/service-furniture-repair-1200w.webp 1200w, /images/service-furniture-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
